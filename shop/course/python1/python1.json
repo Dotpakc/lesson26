@@ -1,0 +1,8 @@
+{
+    "name": "Python Basic",
+    "level": "BASIC",
+    "description": "Курс Python Basic спрямований на людей без досвіду програмування. В ході курсу Студенти освоять базові навички програмування, познайомляться з особливостями мови Python і навчаться писати прості програми без графічного інтерфейсу.",
+    "prices": 7000 ,
+    "link" : "https://ithillel.ua/courses/introduction-python",
+    "lessons_count": "32 заняття"
+}
